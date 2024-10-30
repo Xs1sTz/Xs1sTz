@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Xs1sTz
-- 👀 I’m interested in Python and bash programming & pentesting for fun
-- 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me (not yet)
-- 😄 Pronouns: normal
-- ⚡ Fun fact: 
+Hi, im XsisTz,
+or at least thats what you know me by.
+unless you know me in real life in which case you know my actual name...
+anyway i mainly code in python, and a couple more languages,
+i also use kali-linux for fun, i will upload some kali and hacking stuff
+too, vulnerabilities and such.
 
-<!---
-Xs1sTz/Xs1sTz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i also play games, mainly strategy and thinking
+and yeah, i will upload inconsistently probably once a month
+once i get a good idea for a program, and thats about it
