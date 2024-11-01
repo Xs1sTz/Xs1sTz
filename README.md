@@ -14,7 +14,7 @@ Most of my uploads will be small, practical programs centered on cybersecurity. 
 ### Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
-#### maininfo.py
+#### main_info.py
 ```python
 def Xs1sTz():
    Username = "Xs1sTz"
@@ -30,7 +30,7 @@ def Xs1sTz():
    
 Xs1sTz()
 ```
-#### aboutinfo.cs
+#### about_info.cs
 ```c#
 using System;
 using System.Collections.Generic;
@@ -49,7 +49,7 @@ public class Xs1sTz {
     }
 }
 ```
-#### generalinfo.sh
+#### general_info.sh
 ```bash
 echo "Main OS: Windows 11"
 echo "Unix OS: kali-linux"
