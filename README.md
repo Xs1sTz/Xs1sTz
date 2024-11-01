@@ -53,3 +53,9 @@ echo "Main OS: Windows 11"
 echo "Unix OS: kali-linux"
 echo "Discord: xsistz"
 ```
+## Github Statistics
+![Xs1sTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xs1sTz\&show_icons=true\&theme=radical)
+
+
+
+
