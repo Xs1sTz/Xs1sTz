@@ -55,7 +55,7 @@ echo "Discord: xsistz"
 ```
 ## Github Statistics
 ![Xs1sTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xs1sTz\&show_icons=true\&theme=radical)
-![Xs1sTz's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xs1sTz)
+![Xs1sTz's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xs1sTz\&theme=radical)
 
 
 
