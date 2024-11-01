@@ -43,9 +43,7 @@ public class Xs1sTz {
         string favourite_lang = "Python";
         Console.WriteLine("Favourite Language: " + favourite_lang);
         List<string> hobbies = new List<string> {"Minecraft", "Python", "Gamdev"};
-        Console.WriteLine("Hobbies: " + string.Join(", ", hobbies));
-
-        
+        Console.WriteLine("Hobbies: " + string.Join(", ", hobbies));       
     }
 }
 ```
