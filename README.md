@@ -38,7 +38,7 @@ using System.Collections.Generic;
 public class Xs1sTz {
     public static void Main()
     {
-        List<string> currentlyLearning = new List<string> {"Cybersecurity", "C#", "Bash", "html"};
+        List<string> currentlyLearning = new List<string> {"Cybersecurity", "C#", "Bash"};
         Console.WriteLine("Learning Further: " + string.Join(", ", currentlyLearning));
         string favourite_lang = "Python";
         Console.WriteLine("Favourite Language: " + favourite_lang);
