@@ -3,10 +3,13 @@
 def Xs1sTz():
    Username = "Xs1sTz"
    years = 4
-   occupation = "student"
+   occupation = "Student"
+   languages = ["python", "c#", "bash"]
    print("Username: " + Username)
-   print("Years of learning: " + years)
+   print("Years of learning: " + str(years))
    print("occupation: " + occupation)
+   print("languages: " + str(languages))
+   
 Xs1sTz()
 ```
 
