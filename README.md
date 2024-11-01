@@ -7,3 +7,9 @@ too.
 
 and yeah, i will upload inconsistently probably once a month just for fun
 once i get a good idea for a program, and thats about it
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
