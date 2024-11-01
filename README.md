@@ -1,8 +1,13 @@
 # Xs1sTz
 ```python
-Username = "Xs1sTz"
-print(Username)
-for i in range()
+def Xs1sTz():
+   Username = "Xs1sTz"
+   years = 4
+   occupation = "student"
+   print("Username: " + Username)
+   print("Years of learning: " + years)
+   print("occupation: " + occupation)
+Xs1sTz()
 ```
 
 ### Table of Contents
