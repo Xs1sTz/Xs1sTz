@@ -1,17 +1,17 @@
 # Xs1sTz
-### About Me
+## About Me
 I’m currently focused on learning cybersecurity and programming, with a strong interest in algorithms, encryption, and hashing systems.
 
-### Hobbies
+## Hobbies
 I enjoy coding and sharing my work, especially creating projects that are engaging and non-repetitive.
 
-### Profile Overview
+## Profile Overview
 Most of my uploads will be small, practical programs centered on cybersecurity. Expect frequent mini-programs and, occasionally, larger projects that require more time to develop.
 
 #### Note: My intentions are educational and personal fun. I create these programs for learning purposes and to help others with the same goal.
 ### *I do not condone or support any form of unethical hacking.*
 
-### Good Luck
+## Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
 #### main_info.py
