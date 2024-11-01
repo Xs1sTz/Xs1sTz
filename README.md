@@ -3,12 +3,14 @@
 def Xs1sTz():
    Username = "Xs1sTz"
    years = 4
+   speaking_lang = "English"
    occupation = "Student"
-   languages = ["python", "c#", "bash"]
+   code_languages = ["python", "c#", "bash"]
    print("Username: " + Username)
    print("Years of learning: " + str(years))
    print("occupation: " + occupation)
-   print("languages: " + str(languages))
+   print("Main coding languages: " + str(code_languages))
+   print("Main Speaking Language: " + speaking_lang)
    
 Xs1sTz()
 ```
