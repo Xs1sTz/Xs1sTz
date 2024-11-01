@@ -1,4 +1,19 @@
 # Xs1sTz
+## Hi Im Xs1sTz
+I'm currently learning cybersecurity and programming 
+learning algorithms and encryption, hashing systems
+i enjoy coding and i enjoy sharing
+i usually code stuff that i dont find boring,
+so i will not upload very much softwares as much as i will
+upload 'tiny' programs that are usefull, mostly in cybersecurity,
+i will upload more mini programs and from time to time
+i will upload major programs that take me more time
+ 
+i hope you find my repos useful and i hope they
+will help you on your journey of coding and cybersecurity!
+
+
+
 #### maininfo.py
 ```python
 def Xs1sTz():
