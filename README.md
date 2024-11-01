@@ -1,6 +1,6 @@
 # Xs1sTz
+##Python:
 ```python
-Python3:
 def Xs1sTz():
    Username = "Xs1sTz"
    years = 4
