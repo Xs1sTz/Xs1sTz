@@ -1,8 +1,5 @@
-# About Me
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)  
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# XsisTz
+My Name
 
 ### Table of Contents
 1. [About the Project](#about-the-project)
