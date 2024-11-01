@@ -8,8 +8,8 @@ I enjoy coding and sharing my work, especially creating projects that are engagi
 ### Profile Overview
 Most of my uploads will be small, practical programs centered on cybersecurity. Expect frequent mini-programs and, occasionally, larger projects that require more time to develop.
 
-#### Note: My intentions are educational and personal fun. I create these programs for learning purposes and to help others with the same goal. 
-## *I do not condone or support any form of unethical hacking.*
+#### **Note: My intentions are educational and personal fun. I create these programs for learning purposes and to help others with the same goal. **
+### *I do not condone or support any form of unethical hacking.*
 
 ### Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
