@@ -1,18 +1,17 @@
 # Xs1sTz
-### Hi Im Xs1sTz
-I'm currently learning cybersecurity and programming 
-learning algorithms and encryption, hashing systems
-i enjoy coding and i enjoy sharing
-i usually code stuff that i dont find boring,
-so i will not upload very much softwares as much as i will
-upload 'tiny' programs that are usefull, mostly in cybersecurity,
-i will upload more mini programs and from time to time
-i will upload major programs that take me more time
- 
-i hope you find my repos useful and i hope they
-will help you on your journey of coding and cybersecurity!
+### About Me
+I’m currently focused on learning cybersecurity and programming, with a strong interest in algorithms, encryption, and hashing systems.
 
+### Hobbies
+I enjoy coding and sharing my work, especially creating projects that are engaging and non-repetitive.
 
+### Profile Overview
+Most of my uploads will be small, practical programs centered on cybersecurity. Expect frequent mini-programs and, occasionally, larger projects that require more time to develop.
+
+##### **Note**: My intentions are educational and personal fun. I create these programs for learning purposes and to help others with the same goal. **I do not condone or support any form of unethical hacking.**
+
+### Good Luck
+I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
 #### maininfo.py
 ```python
