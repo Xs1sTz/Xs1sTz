@@ -14,7 +14,7 @@ Most of my uploads will be small programs centered around cybersecurity. Expect 
 ## Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
-#### main_info.py
+#### main_info.p
 ```python
 def Xs1sTz():
    Username = "Xs1sTz"
