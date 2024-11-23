@@ -10,7 +10,7 @@ I like creating 3D models for unity from time to time as a hobby
 I enjoy programming puzzles and CTFs
 
 ## Profile Overview
-Most of my uploads will be small programs centered around cybersecurity. Expect frequent mini-programs and, occasionally, larger projects that require more time to develop.
+Most of my uploads will be small programs centered around cybersecurity. Most frequently mini-programs and, occasionally, larger projects that require more time to develop. and from time to time games
 
 #### Note: My intentions are educational and personal fun. I create these programs for learning purposes and to help others with the same goal.
 ### *I do not condone or support any form of unethical hacking.*
