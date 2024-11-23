@@ -19,7 +19,7 @@ I hope you find my repositories useful and that they help your path in coding an
 def Xs1sTz():
    print("Github Username    : Xs1sTz")
    print("Years of learning  : Four")
-   print(Current Occupation  : Student")
+   print("Current Occupation  : Student")
    print("Coding Languages   : Python, C#, Bash")
    print("Speaking Language  : English")
    
