@@ -1,9 +1,13 @@
 # Xs1sTz
 ## About Me
-I’m currently focused on learning cybersecurity and programming, with a strong interest in algorithms, encryption, and hashing systems.
+I’m currently focused on learning cybersecurity and programming, and making fun command-line games
+I like hashing, and encryption systems.
 
 ## Hobbies
-I enjoy coding and sharing my work, especially creating projects that are engaging and non-repetitive.
+I enjoy game developing mostly in python and unity
+I love command line interface and the possibilites with it
+I like creating 3D models for unity from time to time as a hobby
+I enjoy programming puzzles and CTFs
 
 ## Profile Overview
 Most of my uploads will be small programs centered around cybersecurity. Expect frequent mini-programs and, occasionally, larger projects that require more time to develop.
