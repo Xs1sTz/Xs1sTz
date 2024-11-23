@@ -4,10 +4,10 @@ I’m currently focused on learning cybersecurity and programming, and making fu
 I like hashing, and encryption systems.
 
 ## Hobbies
-I enjoy game developing mostly in python and unity
-I love command line interface and the possibilites with it
-I like creating 3D models for unity from time to time as a hobby
-I enjoy programming puzzles and CTFs
+I enjoy game developing mostly in python and unity.
+I love command line interface and the possibilites with it.
+I like creating 3D models for unity from time to time as a hobby.
+I enjoy programming puzzles and CTFs.
 
 ## Profile Overview
 Most of my uploads will be small programs centered around cybersecurity. Most frequently mini-programs and, occasionally, larger projects that require more time to develop. and from time to time games
