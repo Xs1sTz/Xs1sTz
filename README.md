@@ -17,16 +17,11 @@ I hope you find my repositories useful and that they help your path in coding an
 #### main_info.py
 ```python
 def Xs1sTz():
-   Username = "Xs1sTz"
-   years = 4
-   speaking_lang = "English"
-   occupation = "Student"
-   code_languages = ["python", "c#", "bash"]
-   print("Username: " + Username)
-   print("Years of learning: " + str(years))
-   print("occupation: " + occupation)
-   print("Main coding languages: " + str(code_languages))
-   print("Main Speaking Language: " + speaking_lang)
+   print("Username: XsisTz")
+   print("Years of learning: 4")
+   print("occupation: Student")
+   print("Main coding languages: python, c#, bash")
+   print("Main Speaking Language: English")
    
 Xs1sTz()
 ```
