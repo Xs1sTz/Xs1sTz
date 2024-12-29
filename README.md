@@ -12,7 +12,6 @@ I enjoy programming puzzles and CTFs.
 ## Profile Overview
 Most of my uploads will be small programs centered around cybersecurity. Most frequently mini-programs and, occasionally, larger projects that require more time to develop. and from time to time games
 
-## Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
 #### xsistz_info.py
