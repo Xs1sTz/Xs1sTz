@@ -12,9 +12,6 @@ I enjoy programming puzzles and CTFs.
 ## Profile Overview
 Most of my uploads will be small programs centered around cybersecurity. Most frequently mini-programs and, occasionally, larger projects that require more time to develop. and from time to time games
 
-#### Note: My intentions are educational and personal fun. I create these programs for learning purposes and to help others with the same goal.
-### *I do not condone or support any form of unethical hacking.*
-
 ## Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
