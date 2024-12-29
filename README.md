@@ -1,8 +1,8 @@
 # Xs1sTz
 ## About Me
 ```python
-I’m currently focused on learning cybersecurity and programming, and making fun command-line games
-I like hashing, and encryption systems.
+I’m currently focused on learning cybersecurity and programming.
+I am interested in encryption systems, 
 ```
 ## Hobbies
 ```python
