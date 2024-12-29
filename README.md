@@ -26,8 +26,6 @@ def Xs1sTz():
    
 Xs1sTz()
 ```
-
-```
 #### Contact_me.sh
 ```bash
 echo "Discord: xsistz"
