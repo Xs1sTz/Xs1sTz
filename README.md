@@ -1,4 +1,5 @@
 # Xs1sTz
+```python
 ## About Me
 I’m currently focused on learning cybersecurity and programming, and making fun command-line games
 I like hashing, and encryption systems.
@@ -15,7 +16,6 @@ Most of my uploads will be small programs centered around cybersecurity. Most fr
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
 #### xsistz_info.py
-```python
 def Xs1sTz():
    print("Github Username     : Xs1sTz")
    print("Years of learning   : Four")
@@ -25,14 +25,9 @@ def Xs1sTz():
    print("Speaking Language   : English")
    
 Xs1sTz()
-```
-#### Contact_me.sh
-```bash
-echo "Discord: xsistz"
-```
 ## Github Statistics
 ![Xs1sTz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xs1sTz\&show_icons=true\&theme=dracula)
-
+```
 
 
 
