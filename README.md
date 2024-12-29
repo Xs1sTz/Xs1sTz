@@ -18,38 +18,22 @@ Most of my uploads will be small programs centered around cybersecurity. Most fr
 ## Good Luck
 I hope you find my repositories useful and that they help your path in coding and cybersecurity!
 
-#### main_info.py
+#### xsistz_info.py
 ```python
 def Xs1sTz():
    print("Github Username     : Xs1sTz")
    print("Years of learning   : Four")
    print("Current Occupation  : Student")
    print("Coding Languages    : Python, C#, Bash")
+   print("Current Interests   : C++, Cybersecurity")
    print("Speaking Language   : English")
    
 Xs1sTz()
 ```
-#### about_info.cs
-```c#
-using System;
-using System.Collections.Generic;
 
-public class Xs1sTz {
-    public static void Main()
-    {
-        List<string> currentlyLearning = new List<string> {"Cybersecurity", "C#", "Bash"};
-        Console.WriteLine("Learning Further: " + string.Join(", ", currentlyLearning));
-        string favourite_lang = "Python";
-        Console.WriteLine("Favourite Language: " + favourite_lang);
-        List<string> hobbies = new List<string> {"3D Modeling", "Python", "Game Dev"};
-        Console.WriteLine("Hobbies: " + string.Join(", ", hobbies));       
-    }
-}
 ```
-#### general_info.sh
+#### Contact_me.sh
 ```bash
-echo "Main OS: Windows 11"
-echo "Unix OS: kali-linux"
 echo "Discord: xsistz"
 ```
 ## Github Statistics
